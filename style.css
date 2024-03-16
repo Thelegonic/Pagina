@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+body{
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    background-image: url(letras-pasta.jpg);
+    background-size: cover;
+    color: #191919;
+    text-align: center;
+    letter-spacing: 65px;
+    -webkit-text-stroke: 1.2px #FFFFFF;
+}
+p{
+    margin-bottom: -15px;
+}
